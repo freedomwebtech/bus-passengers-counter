@@ -32,7 +32,7 @@ count=0
 area1=[(259,488),(281,499),(371,499),(303,466)]
 
 tracker=Tracker()
-going_in={}
+
 counter=[]
 
 while True:    
